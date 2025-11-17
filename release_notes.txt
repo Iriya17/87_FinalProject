@@ -1,1 +1,2 @@
 This file tracks project release information.
+Version 1.0.0: Initial feature set deployed to staging.
